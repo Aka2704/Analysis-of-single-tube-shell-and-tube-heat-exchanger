@@ -14,3 +14,4 @@ Analysed flow and heat conduction or variation in a single tube counter flow she
 1) hot inlet = 90 degree C
 2) cold inlet = 15 degree C
 3) velocity - pressure model used ( inlet - outlet condition)
+4) hot and cold fluid velocity - 1m/s
